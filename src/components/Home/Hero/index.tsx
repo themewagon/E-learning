@@ -33,14 +33,15 @@ const Hero = () => {
                                 <p className='text-sm sm:text-lg font-normal text-black'>Flexible</p>
                             </div>
                             <div className='flex gap-2'>
+                                <Image src={`${getImagePrefix()}images/banner/check-circle.svg`} alt="check-image" width={30} height={30} className='smallImage' />
+                                <p className='text-sm sm:text-lg font-normal text-black'>Learning path</p>
                             </div>
-                            <Image src={`${getImagePrefix()}images/banner/check-circle.svg`} alt="check-image" width={30} height={30} className='smallImage' />
-                            <p className='text-sm sm:text-lg font-normal text-black'>Learning path</p>
+                            <div className='flex gap-2'>
+                                <Image src={`${getImagePrefix()}images/banner/check-circle.svg`} alt="check-image" width={30} height={30} className='smallImage' />
+                                <p className='text-sm sm:text-lg font-normal text-black'>Community</p>
+                            </div>
                         </div>
-                        <div className='flex gap-2'>
-                            <Image src={`${getImagePrefix()}images/banner/check-circle.svg`} alt="check-image" width={30} height={30} className='smallImage' />
-                            <p className='text-sm sm:text-lg font-normal text-black'>Community</p>
-                        </div>
+
                     </div>
                     <div className='col-span-6 flex justify-center'>
                         <Image src={`${getImagePrefix()}images/banner/mahila.png`} alt="nothing" width={1000} height={805} />

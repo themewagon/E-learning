@@ -12,17 +12,17 @@ const footer = () => {
           <div className='col-span-4 md:col-span-12 lg:col-span-4'>
             <Logo />
             <div className='flex items-center gap-4'>
-              <Link href="https://facebook.com" className='hover:text-primary text-black text-3xl'>
+              <Link href="#" className='hover:text-primary text-black text-3xl'>
                 <Icon
                   icon="tabler:brand-facebook"
                 />
               </Link>
-              <Link href="https://twitter.com" className='hover:text-primary text-black text-3xl'>
+              <Link href="#" className='hover:text-primary text-black text-3xl'>
                 <Icon
                   icon="tabler:brand-twitter"
                 />
               </Link>
-              <Link href="https://instagram.com" className='hover:text-primary text-black text-3xl'>
+              <Link href="#" className='hover:text-primary text-black text-3xl'>
                 <Icon
                   icon="tabler:brand-instagram"
                 />
