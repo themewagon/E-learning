@@ -102,7 +102,7 @@ const footer = () => {
             <Link href="/" className='text-black/50 text-sm font-normal hover:text-primary'>Privacy policy</Link>
             <Link href="/" className='text-black/50 text-sm font-normal hover:text-primary'>Terms & conditions</Link>
           </div>
-          <h4 className='text-black/50 text-sm text-center lg:text-start font-normal'>Distributed by <Link href="https://.com/" target="_blank" className="hover:text-primary"> ThemeWagon</Link></h4>
+          <h4 className='text-black/50 text-sm text-center lg:text-start font-normal'>Distributed by <Link href="https://themewagon.com/" target="_blank" className="hover:text-primary"> ThemeWagon</Link></h4>
         </div>
       </div>
     </footer>
