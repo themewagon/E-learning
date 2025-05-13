@@ -91,7 +91,7 @@ const Signin = () => {
       </form>
 
       <Link
-        href="/forgot-password"
+        href="#"
         className="mb-2 inline-block text-base text-dark hover:text-primary text-white dark:hover:text-primary"
       >
         Forgot Password?
