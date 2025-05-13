@@ -81,7 +81,7 @@ const Signin = () => {
         </div>
         <div className="mb-9">
           <button
-            onClick={loginUser}
+           // onClick={loginUser}
             type="submit"
             className="bg-primary w-full py-3 rounded-lg text-18 font-medium border border-primary hover:text-primary hover:bg-transparent"
           >
