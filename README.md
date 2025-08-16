@@ -6,7 +6,7 @@
 - [Demo](https://themewagon.github.io/E-learning/)
 
 #### Download
-- [Download from ThemeWagon](https://themewagon.com/themes/flexy/)
+- [Download from ThemeWagon](https://themewagon.com/themes/e-learning/)
 
 ## Getting Started
 
